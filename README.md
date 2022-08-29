@@ -4,9 +4,6 @@
   <a href="https://github.com/BonathanRJ">
   <img height="140"  src="https://github-readme-stats.vercel.app/api?username=BonathanRJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-    
-   <img align="right" alt="Rafa-pic" height="150" width="25%" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-
   <img align="right" height="590em" 
 src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
 
