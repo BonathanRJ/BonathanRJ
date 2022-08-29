@@ -1,6 +1,6 @@
 ## Me chamo Jonathan Silveira, estou salvando meus conteúdos de projetos recentes aqui no GitHub, qualquer ajuda é bem-vinda!
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/BonathanRJ">
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=BonathanRJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
