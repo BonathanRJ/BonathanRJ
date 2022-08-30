@@ -4,13 +4,14 @@
   <a href="https://github.com/BonathanRJ">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BonathanRJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-  <p><img align="center" alt="gif" height="350" width="350" src="https://github.com/BonathanRJ/BonathanRJ/blob/main/src/assets/gif_github.gif" /></p>
-
 
 
   <img align="left" height="590em" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
 </div>
-  ![gif_github](https://user-images.githubusercontent.com/97456370/187473020-d7ca0c63-f770-4132-a314-4fecf68e33f6.gif)
+
+![gatinho](https://user-images.githubusercontent.com/97456370/187475209-edb4099f-f383-4fa3-92be-6a92e4175285.gif)
+
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Linguagem-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
