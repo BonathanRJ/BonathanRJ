@@ -7,7 +7,7 @@
   
 
     
-  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
+  <img align="left" height="590em" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
 </div>
 
 
