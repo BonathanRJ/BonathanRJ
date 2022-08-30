@@ -7,9 +7,9 @@
   
 
     
-  <img align="left" height="590em" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
-</div>
 
+</div>
+  <img align="left" height="590em" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linguagem-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
