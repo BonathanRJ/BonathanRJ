@@ -1,7 +1,6 @@
 ## Me chamo Jonathan Silveira, estou salvando meus conteúdos de projetos recentes aqui no GitHub, qualquer ajuda é bem-vinda!
 
 <div align="center">
-  <img alt="Rafa-pic" align="left" width="20%" height="135em" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   <a href="https://github.com/BonathanRJ">
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=BonathanRJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
