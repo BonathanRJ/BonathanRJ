@@ -6,7 +6,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <img align="left" height="590em" width="60%" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
+ <img align="left" height="590em" width="60%" src="https://raw.githubusercontent.com/gist/BonathanRJ/b9c52f3fda1546fa6ac8464aef385acc/raw/69768bcc47dec4d7b5d27a21d082f908a36fbd6a/githubcard.svg"/>
 
 ## Working with 🛠
 
