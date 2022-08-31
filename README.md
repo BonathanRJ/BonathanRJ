@@ -1,4 +1,4 @@
-## Me chamo Jonathan Silveira, estou salvando meus conteúdos de projetos recentes aqui no GitHub, qualquer ajuda é bem-vinda!
+## My name is Jonathan Silveira, i'm saving my recent projects on GitHub, any help is welcome!
 
 <div align="center">
   <a href="https://github.com/BonathanRJ">
@@ -8,7 +8,7 @@
 
  <img align="left" height="590em" width="60%" src="https://raw.githubusercontent.com/gist/BonathanRJ/a9b83d6142c3311cd2d5b0709770c256/raw/40cc9e3a44671940a8b19c926d46dc01db3417ae/githubcard.svg"/>
 
-## Tecnologias com que trabalho
+## Working with 🛠
 
 <div style="display: inline_block">
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img align="center" alt="sqlmicrosoft" src="https://img.shields.io/badge/Microsoft_SQL_Server-d68c1c?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 </div><br/>
 
-## Tecnologias em aprendizagem
+## Learning 📚
 
 <div>
   <a href="https://reactnative.dev" target="_blank"><img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
@@ -28,7 +28,7 @@
   <a href="https://www.javascript.com" target="_blank"><img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 </div><br/>
   
-## Contatos
+## Contact me on 📩
 
 <div> 
   <a href="https://www.instagram.com/BonathanRJ" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
