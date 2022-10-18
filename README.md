@@ -1,4 +1,4 @@
-## My name is Jonathan Silveira, i'm saving my recent projects on GitHub, any help is welcome!
+## My name is Jonathan Silveira, i'm uploading my recent projects on GitHub, any help is welcome!
 
 <div align="center">
   <a href="https://github.com/BonathanRJ">
