@@ -2,7 +2,7 @@
 
  <img align="left" height="590em" width="450em" src="https://github.com/BonathanRJ/BonathanRJ/assets/97456370/6fb48bdb-1e2e-4841-8485-a7997a3101e6"/>
 
-## Working with 🛠
+# Working with 🛠
 
 <div style="display: inline_block">
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img align="center" alt="sqlmicrosoft" src="https://img.shields.io/badge/Microsoft_SQL_Server-d68c1c?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 </div><br/>
 
-## Learning 📚
+# Learning 📚
 
 <div>
   <a href="https://reactnative.dev" target="_blank"><img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
@@ -22,7 +22,7 @@
   <a href="https://www.javascript.com" target="_blank"><img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 </div><br/>
   
-## Contact me on 📩
+# Contact me on 📩
 
 <div> 
   <a href="https://www.instagram.com/BonathanRJ" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
