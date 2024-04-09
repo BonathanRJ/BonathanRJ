@@ -1,6 +1,8 @@
 ## Hi, i'm Jonathan Silveira, i'm uploading my recent projects here, any help is welcome!
 
- <img align="left" height="590em" width="60%" src="https://raw.githubusercontent.com/gist/BonathanRJ/ed6de7d8a1acaea20a6afb863fdfa945/raw/96247292695c008c162a9928829f667102115963/githubcard.svg"/>
+
+![Mobile (1)](https://github.com/BonathanRJ/BonathanRJ/assets/97456370/6fb48bdb-1e2e-4841-8485-a7997a3101e6)
+
 
 ## Working with 🛠
 
