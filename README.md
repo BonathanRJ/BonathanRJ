@@ -1,5 +1,5 @@
 <img alt="code gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-<h3 align="center">Hello, my name is Jonathan Barbosa, I'm 23 years old and I've been working as a Systems Analyst for the last three years. I'm about to complete my degree in Computer Science from Unicarioca University. I have solid skills in JavaScript and SQL, and I am familiar with frameworks such as React, NodeJS, NestJS, NextJS, and AngularJS.</h3>
+<h3 align="center">Hello, my name is Jonathan Barbosa, I'm 23 years old and I've been working as a Systems Analyst for the last three years. I'm about to complete my degree in Computer Science from Unicarioca University. I have solid skills in JavaScript and SQL, and I am familiar with frameworks such as React, React Native, NodeJS, NestJS, NextJS, and AngularJS.</h3>
  
 # 🛠 Working with 
 <div style="display: inline_block">
