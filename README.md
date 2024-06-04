@@ -1,6 +1,5 @@
-## Hi, i'm Jonathan Silveira, i'm uploading projects here, any help is welcome!
-
- <img align="left" height="450em" width="590em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDJlbnVydHk1dnYxeXUxeTVuYmF3cXJnZDU1cHU2ZmdobTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+<img alt="code gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<h3 align="center">Hi, i'm Jonathan Barbosa! 🇧🇷 </h3>
  
 ### Working with 🛠
 
@@ -10,7 +9,7 @@
 
 </div><br/>
 
-### Learning 📚
+### Tech Stack 💻
 
 <div>
   <a href="https://reactnative.dev" target="_blank"><img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
