@@ -1,6 +1,6 @@
 ## Hi, i'm Jonathan Silveira, i'm uploading projects here, any help is welcome!
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDJlbnVydHk1dnYxeXUxeTVuYmF3cXJnZDU1cHU2ZmdobTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp
+ <img align="left" height="590em" width="450em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDJlbnVydHk1dnYxeXUxeTVuYmF3cXJnZDU1cHU2ZmdobTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
  
 ### Working with 🛠
 
