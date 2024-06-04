@@ -1,7 +1,5 @@
-## Hi, i'm Jonathan Silveira, i'm uploading my recent projects here, any help is welcome!
-
- <img align="left" height="590em" width="450em" src="https://github.com/BonathanRJ/BonathanRJ/assets/97456370/6fb48bdb-1e2e-4841-8485-a7997a3101e6"/>
-
+## Hi, i'm Jonathan Silveira, i'm uploading projects here, any help is welcome!
+ 
 ### Working with 🛠
 
 <div style="display: inline_block">
